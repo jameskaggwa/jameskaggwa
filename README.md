@@ -1,3 +1,6 @@
+
+[bg](https://github.com/jameskaggwa/jameskaggwa/blob/76cf8801bea07b2b688975b0e073b84094bd0976/linkedinbg.png)
+
 ## Hi there 👋
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently doing a bachelor of Science in computer science 
