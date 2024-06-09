@@ -3,7 +3,7 @@
 - 🌱 I’m currently doing a bachelors of science in computer science 
 - 👯 I’m looking for work in the field of data analytics and analysis
 - 💬 Ask me about Data Analaytics
-- 📫 How to reach me: (my portifolio website)[https://jamesidea.com/]
+- 📫 How to reach me: [my portifolio website]: [https://www.mozilla.org](https://jamesidea.com/)
 <!--
 **jameskaggwa/jameskaggwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
