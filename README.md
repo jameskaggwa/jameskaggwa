@@ -13,7 +13,7 @@ Passionate about staying at the forefront of industry trends, I actively engage 
 Let's connect to explore how we can collaborate to unlock the full potential of data-driven insights.
 ## Few Ways To See My work:
 
-- [my portfolio website](https://jamesidea.com/)
+- ![img](favicon.png) [my portfolio website](https://jamesidea.com/)
 <!--
 **jameskaggwa/jameskaggwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
