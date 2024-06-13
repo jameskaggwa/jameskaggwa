@@ -18,7 +18,7 @@ Let's connect to explore how we can collaborate to unlock the full potential of 
 - [Maven Analytics Portfolio](https://mavenanalytics.io/profile/Ssekitoleko-James/200971822)
 
 # Scan The QRCode to view my website
-![website](My Website.png)
+![website](website_qrcode.png)
 <!--
 **jameskaggwa/jameskaggwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
