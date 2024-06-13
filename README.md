@@ -14,7 +14,8 @@ Let's connect to explore how we can collaborate to unlock the full potential of 
 ## Few Ways To See My work:
 
 - ![img](favicon-16x16.png) [my portfolio website](https://jamesidea.com/)
-- [linkedin](https://www.linkedin.com/in/ssekitoleko-james-2301a371/)
+- [Linkedin Profile](https://www.linkedin.com/in/ssekitoleko-james-2301a371/)
+- ![Maven Analytics Portfolio](https://mavenanalytics.io/profile/Ssekitoleko-James/200971822)
 <!--
 **jameskaggwa/jameskaggwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
