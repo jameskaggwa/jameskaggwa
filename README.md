@@ -11,8 +11,9 @@ Throughout my career, I've demonstrated proficiency in SQL, Python, R, and vario
 Passionate about staying at the forefront of industry trends, I actively engage in professional development and remain abreast of emerging technologies and best practices in data analytics. I am enthusiastic about leveraging my skills and experience to make a meaningful impact and contribute to the success of forward-thinking organizations.
 
 Let's connect to explore how we can collaborate to unlock the full potential of data-driven insights.
+## Few Ways To See My work:
 
-- 📫 How to reach me: [my portfolio website]:[https://www.mozilla.org](https://jamesidea.com/)
+- [my portfolio website](https://jamesidea.com/)
 <!--
 **jameskaggwa/jameskaggwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
