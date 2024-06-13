@@ -14,6 +14,7 @@ Let's connect to explore how we can collaborate to unlock the full potential of 
 ## Few Ways To See My work:
 
 - ![img](favicon-16x16.png) [my portfolio website](https://jamesidea.com/)
+- ![img](linkedin (1).svg) [linkedin](https://www.linkedin.com/in/ssekitoleko-james-2301a371/)
 <!--
 **jameskaggwa/jameskaggwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
