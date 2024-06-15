@@ -17,8 +17,6 @@ Let's connect to explore how we can collaborate to unlock the full potential of 
 - [Linkedin Profile](https://www.linkedin.com/in/ssekitoleko-james-2301a371/)
 - [Maven Analytics Portfolio](https://mavenanalytics.io/profile/Ssekitoleko-James/200971822)
 
-# Scan The QRCode to view my website
-![website](website_qrcode.png){width=20px}
 <!--
 **jameskaggwa/jameskaggwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
