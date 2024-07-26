@@ -13,7 +13,7 @@ Passionate about staying at the forefront of industry trends, I actively engage 
 Let's connect to explore how we can collaborate to unlock the full potential of data-driven insights.
 ## Few Ways To See My work:
 
-- [checkout my website](https://jamesidea.com/)
+- [Checkout My Website](https://jamesidea.com/)
 - [Linkedin Profile](https://www.linkedin.com/in/ssekitoleko-james-2301a371/)
 - [Maven Analytics Portfolio](https://mavenanalytics.io/profile/Ssekitoleko-James/200971822)
 
